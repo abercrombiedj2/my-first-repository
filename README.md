@@ -1,2 +1,4 @@
 # github-demo
-following demo video
+this is really cool
+another cool line
+another cool line
